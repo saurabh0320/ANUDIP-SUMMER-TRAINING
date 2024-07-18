@@ -1,6 +1,6 @@
 # dataset = [
-#     ['yashika', 'yashika2021csds076@xyzsit.edu.in', 'B.tech-CSE(DS)', '100%'],
-#     ['shreya', 'shreya2021csds144@xyzsit.edu.in' , 'B.Tech-CSE(DS)','10%'],
+#     ['saurabh', 'saurabh2021csds131@xyzsit.edu.in', 'B.tech-CSE(DS)', '100%'],
+#     ['vaishnavi', 'vaishnavi2021csds144@xyzsit.edu.in' , 'B.Tech-CSE(DS)','10%'],
 #     ['ajay', 'ajay2021csds001@xyzsit.edu.in', 'B.tech-CSE(DS)', '95%'],
 #     ['meera', 'meera2021csds002@xyzsit.edu.in', 'B.tech-CSE(DS)', '92%'],
 #     ['rahul', 'rahul2021csds003@xyzsit.edu.in', 'B.tech-CSE(DS)', '88%'],
@@ -39,7 +39,7 @@
 #     for j in i:
 #         print(j,end='  ')
 #     print("\n")
-dataset = ['yashika', 'yashika2021csds076@xyzsit.edu.in', 'B.tech-CSE(DS)', '100%']
+dataset = ['saurabh', 'saurabh2021csds131@xyzsit.edu.in', 'B.tech-CSE(DS)', '100%']
 print(dataset[-1])
 print(*dataset)
 # * ----- this operator is used to display element without brackets , and comma 
